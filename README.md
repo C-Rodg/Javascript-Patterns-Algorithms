@@ -19,8 +19,9 @@ A collection of Javascript design patterns and common algorithms.
 
 ## Algorithms
 
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Debounce
+- [ ] Dynamic Sort
 - [ ] Fibonacci Numbers
 - [ ] Find Node
 - [ ] Find Identical Node
