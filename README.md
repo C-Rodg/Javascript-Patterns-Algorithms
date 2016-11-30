@@ -20,12 +20,12 @@ A collection of Javascript design patterns and common algorithms.
 ## Algorithms
 
 - [x] Binary Search
-- [ ] Debounce
+- [x] Debounce
 - [ ] Dynamic Sort
 - [ ] Fibonacci Numbers
 - [ ] Find Node
 - [ ] Find Identical Node
-- [ ] Flatten Array
+- [x] Flatten Array
 
 
 ## Contributors
