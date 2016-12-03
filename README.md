@@ -19,6 +19,7 @@ A collection of Javascript design patterns and common algorithms.
 
 ## Algorithms
 
+- [ ] Bubble Sort
 - [x] Binary Search
 - [x] Debounce
 - [ ] Dynamic Sort
@@ -26,6 +27,9 @@ A collection of Javascript design patterns and common algorithms.
 - [ ] Find Node
 - [ ] Find Identical Node
 - [x] Flatten Array
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
 
 
 ## Contributors
