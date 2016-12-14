@@ -28,8 +28,8 @@ A collection of Javascript design patterns and common algorithms.
 - [ ] Find Identical Node
 - [x] Flatten Array
 - [x] Insertion Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
+- [x] Merge Sort
+- [x] Quick Sort
 
 
 ## Contributors
